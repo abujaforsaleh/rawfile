@@ -17,7 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"79.141.160.49","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Iran","country":"Iran","image":"germany","ip":"73.254.5.128","active":"true","signal":"b"},
+    {"id":1, "file":1, "city":"Iran","country":"Iran","image":"germany","ip":"73.254.5.128","active":"true","signal":"b"}
    
   ]
 }
