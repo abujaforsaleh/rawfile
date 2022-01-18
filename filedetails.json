@@ -1,11 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"###############################
-# FreeOpenVPN.Org config file #
-# https://www.freeopenvpn.org #
-###############################
-
-setenv UV_ID a1f7538c581f497faa7ad67f1e163841
+    {"id":0,"file":"setenv UV_ID a1f7538c581f497faa7ad67f1e163841
 setenv UV_NAME restless-skies-4578
 client
 dev tun
